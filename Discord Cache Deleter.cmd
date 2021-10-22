@@ -16,7 +16,7 @@ if /I "%c%" EQU "Y" goto :d
 echo Deleting Discord Cache...
 del /f %USERPROFILE%\AppData\roaming\discord\cache
 echo.
-echo You're now ready to chat with Your ugly dumbass Friends!
+echo Done.
 
 echo.
 echo Click ENTER to Exit.
