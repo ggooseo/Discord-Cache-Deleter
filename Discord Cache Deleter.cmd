@@ -1,5 +1,5 @@
 @echo off
-title DISCORD CACHE DELETER BY GOOSEO | This is safe.
+title DISCORD CACHE DELETER BY GOOSEO - This is safe.
 
 :a
 set /P c=This script is gonna delete Discord Cache folder. Are you sure you want to continue (Y/N)?
