@@ -1,9 +1,9 @@
 @echo off
-title DISCORD CACHE DELETER BY DEEBEESEA
+title DISCORD CACHE DELETER BY GOOSEO | This is safe.
 
 :a
 set /P c=This script is gonna delete Discord Cache folder. Are you sure you want to continue (Y/N)?
-echo This is totally not gonna hurt your discord.
+echo I'm not responsible for anything bad happening to your pc.
 if /I "%c%" EQU "Y" goto :b
 if /I "%c%" EQU "N" goto :c
 
